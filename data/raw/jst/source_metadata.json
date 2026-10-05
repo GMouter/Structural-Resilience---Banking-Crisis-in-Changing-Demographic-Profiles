@@ -1,0 +1,22 @@
+{
+  "database": "Jorda-Schularick-Taylor Macrohistory Database",
+  "release": "Release 6 (2022)",
+  "source_url": "https://www.macrohistory.net/database/",
+  "download_url": "https://www.macrohistory.net/app/download/9834512569/JSTdatasetR6.xlsx?t=1763503850",
+  "download_date": "2026-10-05",
+  "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)",
+  "use_restriction": "Non-commercial research only; commercial integration or resale is prohibited by the provider's terms.",
+  "citation": "Jorda, Schularick, and Taylor (2017), Macrofinancial History and the New Business Cycle Facts; return data: Jorda, Knoll, Kuvshinov, Schularick, and Taylor (2019), The Rate of Return on Everything, 1870-2015.",
+  "source_rows": 2718,
+  "source_countries": 18,
+  "first_year": 1870,
+  "last_year": 2020,
+  "variables_used": {
+    "eq_tr": "Nominal equity total return, local currency, decimal ratio.",
+    "bond_tr": "Nominal government bond total return, local currency, decimal ratio.",
+    "bill_rate": "Nominal government bill return coupon[t]/price[t-1], local currency, decimal ratio.",
+    "housing_tr": "Nominal housing total return, local currency, decimal ratio.",
+    "cpi": "Consumer price index, 1990=100; annual inflation is derived from the exact-calendar-year ratio.",
+    "crisisJST": "Systemic financial crisis 0-1 indicator; one in the documented onset year."
+  }
+}

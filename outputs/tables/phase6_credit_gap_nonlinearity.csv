@@ -1,0 +1,24 @@
+record_type,asset,term,mean_forward_return,N,countries,first_year,last_year,model,estimate,clustered_se,t_stat,p_value,ci_lower,ci_upper,fixed_effects,se_method,outcome,analysis_type
+quartile_descriptive,equity,Q1,0.07351074879798727,133,12,1971,2015,,,,,,,,,,,
+quartile_descriptive,equity,Q2,0.058583152943661954,133,12,1960,2015,,,,,,,,,,,
+quartile_descriptive,equity,Q3,0.08792838381954743,132,12,1961,2015,,,,,,,,,,,
+quartile_descriptive,equity,Q4,0.06153562438735713,133,12,1977,2015,,,,,,,,,,,
+quartile_descriptive,bond,Q1,0.039988522938000585,133,12,1971,2015,,,,,,,,,,,
+quartile_descriptive,bond,Q2,0.027820168697795376,133,12,1960,2015,,,,,,,,,,,
+quartile_descriptive,bond,Q3,0.04728273964794221,132,12,1961,2015,,,,,,,,,,,
+quartile_descriptive,bond,Q4,0.05365944573521662,133,12,1977,2015,,,,,,,,,,,
+quartile_descriptive,bill,Q1,0.012717789849779487,132,12,1971,2015,,,,,,,,,,,
+quartile_descriptive,bill,Q2,0.012642221145728601,132,12,1960,2015,,,,,,,,,,,
+quartile_descriptive,bill,Q3,0.017355129618114196,132,12,1961,2015,,,,,,,,,,,
+quartile_descriptive,bill,Q4,0.014132524195167206,132,12,1977,2015,,,,,,,,,,,
+quartile_descriptive,housing,Q1,0.06739654111326733,133,12,1971,2015,,,,,,,,,,,
+quartile_descriptive,housing,Q2,0.06623198161699942,133,12,1960,2015,,,,,,,,,,,
+quartile_descriptive,housing,Q3,0.06919744573241501,132,12,1961,2015,,,,,,,,,,,
+quartile_descriptive,housing,Q4,0.0413045900473287,133,12,1977,2015,,,,,,,,,,,
+quadratic_model,,centred_credit_gap,,499,12,1970,2015,P6-EQ-credit-gap-quadratic,0.0007050326972009623,0.000440562739760489,1.6003003285848727,0.10953197401053748,-0.00015845440565988864,0.0015685198000618132,"country, year",country-clustered,equity_real_return_5y_forward_annualized,"predictive, signal at t and outcome after t"
+quadratic_model,,centred_credit_gap_squared,,499,12,1970,2015,P6-EQ-credit-gap-quadratic,-1.6293302344869123e-05,9.805982018043426e-06,-1.6615676344183326,0.09659949733366664,-3.551267393328164e-05,2.9260692435433896e-06,"country, year",country-clustered,equity_real_return_5y_forward_annualized,"predictive, signal at t and outcome after t"
+quadratic_model,,working_age_change_10y,,499,12,1970,2015,P6-EQ-credit-gap-quadratic,-0.003032402659680604,0.004889886281616946,-0.6201376647715976,0.5351671567365028,-0.012616403660146302,0.006551598340785095,"country, year",country-clustered,equity_real_return_5y_forward_annualized,"predictive, signal at t and outcome after t"
+quadratic_model,,log_real_gdp_pc,,499,12,1970,2015,P6-EQ-credit-gap-quadratic,-0.14990507963429026,0.12860555008451127,-1.1656190540437976,0.24376850056290544,-0.40196732601189444,0.10215716674331396,"country, year",country-clustered,equity_real_return_5y_forward_annualized,"predictive, signal at t and outcome after t"
+quadratic_model,,investment_gdp_5y_backward_avg,,499,12,1970,2015,P6-EQ-credit-gap-quadratic,-0.002916292297082329,0.002795018377752359,-1.043389310172441,0.2967680224422762,-0.00839442765360452,0.0025618430594398626,"country, year",country-clustered,equity_real_return_5y_forward_annualized,"predictive, signal at t and outcome after t"
+quadratic_model,,inflation_5y_backward_avg,,499,12,1970,2015,P6-EQ-credit-gap-quadratic,0.0035534095720181464,0.00363498096276033,0.9775593348141663,0.32829231807101755,-0.0035710221994808317,0.010677841343517125,"country, year",country-clustered,equity_real_return_5y_forward_annualized,"predictive, signal at t and outcome after t"
+quadratic_model_summary,,__model__,,499,12,1970,2015,P6-EQ-credit-gap-quadratic,,,,,,,"country, year",country-clustered,equity_real_return_5y_forward_annualized,"predictive, signal at t and outcome after t"

@@ -1,0 +1,26 @@
+family,bin,mean_predicted_probability,observed_event_rate,N,positive_country_years,interpretation_note
+DSR_only,"(0.2, 0.234]",0.21544532817545237,0.0,16,0,Descriptive OOS calibration; small bins should not be overinterpreted.
+DSR_only,"(0.234, 0.269]",0.2485301053399483,0.0,15,0,Descriptive OOS calibration; small bins should not be overinterpreted.
+DSR_only,"(0.269, 0.315]",0.28950606459861894,0.0,16,0,Descriptive OOS calibration; small bins should not be overinterpreted.
+DSR_only,"(0.315, 0.365]",0.33860586819062316,0.0,15,0,Descriptive OOS calibration; small bins should not be overinterpreted.
+DSR_only,"(0.365, 0.424]",0.4067344470183434,0.0,16,0,Descriptive OOS calibration; small bins should not be overinterpreted.
+Property_only,"(0.0163, 0.0623]",0.05047154515369189,0.2692307692307692,78,21,Descriptive OOS calibration; small bins should not be overinterpreted.
+Property_only,"(0.0623, 0.0733]",0.06835117953543647,0.19230769230769232,78,15,Descriptive OOS calibration; small bins should not be overinterpreted.
+Property_only,"(0.0733, 0.0823]",0.07948556538234931,0.0,78,0,Descriptive OOS calibration; small bins should not be overinterpreted.
+Property_only,"(0.0823, 0.0917]",0.08637648112652244,0.02564102564102564,78,2,Descriptive OOS calibration; small bins should not be overinterpreted.
+Property_only,"(0.0917, 0.158]",0.1056760612736898,0.01282051282051282,78,1,Descriptive OOS calibration; small bins should not be overinterpreted.
+S1,"(-0.00015499999999999997, 0.0183]",0.009683981235978195,0.09210526315789473,76,7,Descriptive OOS calibration; small bins should not be overinterpreted.
+S1,"(0.0183, 0.0382]",0.028482240493083476,0.08,75,6,Descriptive OOS calibration; small bins should not be overinterpreted.
+S1,"(0.0382, 0.0685]",0.0518895758835997,0.09333333333333334,75,7,Descriptive OOS calibration; small bins should not be overinterpreted.
+S1,"(0.0685, 0.117]",0.09335975972408932,0.05333333333333334,75,4,Descriptive OOS calibration; small bins should not be overinterpreted.
+S1,"(0.117, 0.826]",0.2749996159238919,0.14473684210526316,76,11,Descriptive OOS calibration; small bins should not be overinterpreted.
+S2,"(0.036699999999999997, 0.16]",0.10500379217159911,0.0,16,0,Descriptive OOS calibration; small bins should not be overinterpreted.
+S2,"(0.16, 0.198]",0.17858365748283533,0.0,15,0,Descriptive OOS calibration; small bins should not be overinterpreted.
+S2,"(0.198, 0.258]",0.22738701642620612,0.0,16,0,Descriptive OOS calibration; small bins should not be overinterpreted.
+S2,"(0.258, 0.323]",0.30063650170919465,0.0,15,0,Descriptive OOS calibration; small bins should not be overinterpreted.
+S2,"(0.323, 0.493]",0.37771673645647064,0.0,16,0,Descriptive OOS calibration; small bins should not be overinterpreted.
+S3,"(0.019, 0.0978]",0.060181076357710334,0.0,16,0,Descriptive OOS calibration; small bins should not be overinterpreted.
+S3,"(0.0978, 0.194]",0.15359236205563354,0.0,15,0,Descriptive OOS calibration; small bins should not be overinterpreted.
+S3,"(0.194, 0.24]",0.21671196649266303,0.0,16,0,Descriptive OOS calibration; small bins should not be overinterpreted.
+S3,"(0.24, 0.288]",0.2631338463433236,0.0,15,0,Descriptive OOS calibration; small bins should not be overinterpreted.
+S3,"(0.288, 0.465]",0.35150691994188593,0.0,16,0,Descriptive OOS calibration; small bins should not be overinterpreted.

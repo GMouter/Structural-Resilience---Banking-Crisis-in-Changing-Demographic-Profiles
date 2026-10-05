@@ -1,0 +1,4 @@
+period,unique_crisis_starts,crisis_starts,positive_outcome_country_years,negative_outcome_country_years,countries,note
+TRAIN origins through 2006; raw preferred split,11,11,55,603,14,The naive cutoff would use overlapping three-year training labels that extend into the test period.
+TEST origins from 2007,10,10,8,146,14,JST-documented starts; test starts are not the same as positive prediction-origin country-years.
+TRAIN labels mature by test start (origin through 2003),11,11,33,583,14,Three-year outcome-label maturity cutoff used for leakage-safe initial-split sensitivity.

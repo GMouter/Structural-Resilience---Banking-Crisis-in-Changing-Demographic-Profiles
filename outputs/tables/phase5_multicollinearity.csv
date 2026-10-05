@@ -1,0 +1,64 @@
+family,metric,variable,other_variable,value,unit,N
+CG,predictor_correlation,working_age_change_10y,,,,1062
+CG,predictor_correlation,log_real_gdp_pc,,,,1062
+CG,predictor_correlation,investment_gdp_5y_backward_avg,,,,1062
+CG,predictor_correlation,inflation_5y_backward_avg,,,,1062
+CG,standard_deviation,credit_gap,,11.498873324672276,percentage points of GDP,1062
+CG,predictor_correlation,working_age_change_10y,log_real_gdp_pc,-0.3731090448678385,,1062
+CG,predictor_correlation,working_age_change_10y,investment_gdp_5y_backward_avg,0.23123289192574983,,1062
+CG,predictor_correlation,working_age_change_10y,inflation_5y_backward_avg,0.3147593924275739,,1062
+CG,predictor_correlation,working_age_change_10y,credit_gap,0.14926272961698356,,1062
+CG,predictor_correlation,log_real_gdp_pc,investment_gdp_5y_backward_avg,-0.15322785526176777,,1062
+CG,predictor_correlation,log_real_gdp_pc,inflation_5y_backward_avg,-0.3343802051182007,,1062
+CG,predictor_correlation,log_real_gdp_pc,credit_gap,-0.007028499620016832,,1062
+CG,predictor_correlation,investment_gdp_5y_backward_avg,inflation_5y_backward_avg,0.03125113064840405,,1062
+CG,predictor_correlation,investment_gdp_5y_backward_avg,credit_gap,0.13291702325809054,,1062
+CG,predictor_correlation,inflation_5y_backward_avg,credit_gap,0.009095068961423973,,1062
+CG,VIF,working_age_change_10y,,1.2942755510325672,,1062
+CG,VIF,log_real_gdp_pc,,1.250069891338179,,1062
+CG,VIF,investment_gdp_5y_backward_avg,,1.0788165672340735,,1062
+CG,VIF,inflation_5y_backward_avg,,1.1873065414164594,,1062
+CG,VIF,credit_gap,,1.0379525870615396,,1062
+CG,not_included_scale_reference,private_credit_gdp,,61.30658403240858,percent of GDP,1062
+DSR,predictor_correlation,working_age_change_10y,,,,371
+DSR,predictor_correlation,log_real_gdp_pc,,,,371
+DSR,predictor_correlation,investment_gdp_5y_backward_avg,,,,371
+DSR,predictor_correlation,inflation_5y_backward_avg,,,,371
+DSR,standard_deviation,dsr_deviation_10y,,2.436622698380327,percentage points of DSR,371
+DSR,predictor_correlation,working_age_change_10y,log_real_gdp_pc,-0.6421411143895769,,371
+DSR,predictor_correlation,working_age_change_10y,investment_gdp_5y_backward_avg,0.20464321005967626,,371
+DSR,predictor_correlation,working_age_change_10y,inflation_5y_backward_avg,0.6787946253952983,,371
+DSR,predictor_correlation,working_age_change_10y,dsr_deviation_10y,0.05050430315756345,,371
+DSR,predictor_correlation,log_real_gdp_pc,investment_gdp_5y_backward_avg,-0.3897963015274587,,371
+DSR,predictor_correlation,log_real_gdp_pc,inflation_5y_backward_avg,-0.7191445617577311,,371
+DSR,predictor_correlation,log_real_gdp_pc,dsr_deviation_10y,0.03501713416240312,,371
+DSR,predictor_correlation,investment_gdp_5y_backward_avg,inflation_5y_backward_avg,0.2080777195706206,,371
+DSR,predictor_correlation,investment_gdp_5y_backward_avg,dsr_deviation_10y,0.3022170834040823,,371
+DSR,predictor_correlation,inflation_5y_backward_avg,dsr_deviation_10y,0.09209172548800554,,371
+DSR,VIF,working_age_change_10y,,2.0444072927557024,,371
+DSR,VIF,log_real_gdp_pc,,2.80036660398945,,371
+DSR,VIF,investment_gdp_5y_backward_avg,,1.3853269392881526,,371
+DSR,VIF,inflation_5y_backward_avg,,2.5990461606187916,,371
+DSR,VIF,dsr_deviation_10y,,1.1959078946019146,,371
+DSR,not_included_scale_reference,private_credit_gdp,,74.33665405492889,percent of GDP,371
+HP,predictor_correlation,working_age_change_10y,,,,861
+HP,predictor_correlation,log_real_gdp_pc,,,,861
+HP,predictor_correlation,investment_gdp_5y_backward_avg,,,,861
+HP,predictor_correlation,inflation_5y_backward_avg,,,,861
+HP,standard_deviation,real_house_price_growth_5y,,24.198242717285233,percent change over five years,861
+HP,predictor_correlation,working_age_change_10y,log_real_gdp_pc,-0.4137469545617592,,861
+HP,predictor_correlation,working_age_change_10y,investment_gdp_5y_backward_avg,0.13880740569887487,,861
+HP,predictor_correlation,working_age_change_10y,inflation_5y_backward_avg,0.4414188317459841,,861
+HP,predictor_correlation,working_age_change_10y,real_house_price_growth_5y,0.08286221924996168,,861
+HP,predictor_correlation,log_real_gdp_pc,investment_gdp_5y_backward_avg,-0.13955029502667438,,861
+HP,predictor_correlation,log_real_gdp_pc,inflation_5y_backward_avg,-0.4694689760000717,,861
+HP,predictor_correlation,log_real_gdp_pc,real_house_price_growth_5y,0.03642234499736892,,861
+HP,predictor_correlation,investment_gdp_5y_backward_avg,inflation_5y_backward_avg,0.15444587055393538,,861
+HP,predictor_correlation,investment_gdp_5y_backward_avg,real_house_price_growth_5y,-0.03091765199977722,,861
+HP,predictor_correlation,inflation_5y_backward_avg,real_house_price_growth_5y,-0.09948050688634269,,861
+HP,VIF,working_age_change_10y,,1.3665144871483041,,861
+HP,VIF,log_real_gdp_pc,,1.381766245318899,,861
+HP,VIF,investment_gdp_5y_backward_avg,,1.0351945208994637,,861
+HP,VIF,inflation_5y_backward_avg,,1.4503917180096264,,861
+HP,VIF,real_house_price_growth_5y,,1.032198316261217,,861
+HP,not_included_scale_reference,private_credit_gdp,,57.84743233670958,percent of GDP,861

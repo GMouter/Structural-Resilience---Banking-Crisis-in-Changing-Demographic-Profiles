@@ -1,0 +1,7 @@
+strategy,mean_annual_turnover,total_turnover,total_transaction_cost,transaction_cost_bps_per_one_way_turnover,initial_entry_cost_included,turnover_basis
+B1,0.0,0.0,0.0,10.0,False,Target weights versus prior year's realized drifted weights; reset after data gaps.
+B2,0.0412615550689151,21.373485525698023,0.021373485525698024,10.0,False,Target weights versus prior year's realized drifted weights; reset after data gaps.
+B3,0.041961244837271906,21.735924825706846,0.021735924825706843,10.0,False,Target weights versus prior year's realized drifted weights; reset after data gaps.
+B4,0.04409627498330294,22.84187044135092,0.02284187044135092,10.0,False,Target weights versus prior year's realized drifted weights; reset after data gaps.
+R1,0.07019227983308207,36.359600953536514,0.03635960095353652,10.0,False,Target weights versus prior year's realized drifted weights; reset after data gaps.
+R2,0.07181509398528149,37.20021868437581,0.03720021868437581,10.0,False,Target weights versus prior year's realized drifted weights; reset after data gaps.

@@ -1,0 +1,5 @@
+relationship,method,value,N
+working_age_change_10y vs real_gdp_pc_growth_5y_forward,pearson,0.2836963128162719,1459
+working_age_change_10y vs real_gdp_pc_growth_5y_forward,spearman,0.22742785390832515,1459
+old_age_dependency_change_10y vs real_gdp_pc_growth_5y_forward,pearson,-0.02371868058902702,1459
+old_age_dependency_change_10y vs real_gdp_pc_growth_5y_forward,spearman,0.002737067727266598,1459

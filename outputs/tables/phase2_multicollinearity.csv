@@ -1,0 +1,6 @@
+metric,variable,value
+predictor_correlation,working_age_change_10y__old_age_dependency_change_10y,-0.6372618052292683
+vif_model_2,working_age_change_10y,1.8841255784054542
+vif_model_2,old_age_dependency_change_10y,1.7982137032693002
+vif_model_2,investment_gdp_5y_backward_avg,1.1275753661137071
+vif_model_2,inflation_5y_backward_avg,1.018675403480186

@@ -1,0 +1,4 @@
+family,financial_variable,unit,mean,standard_deviation,N,countries,first_year,last_year,baseline_sample_identity_verified
+CG,credit_gap,percentage points of GDP,1.0156758003766477,11.498873324672276,1062,27,1970,2020,True
+DSR,dsr_deviation_10y,percentage points of DSR,0.37826367496684205,2.436622698380327,371,22,2004,2020,True
+HP,real_house_price_growth_5y,percent change over five years,11.465528200569937,24.198242717285233,861,26,1971,2020,True

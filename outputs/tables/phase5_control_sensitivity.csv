@@ -1,0 +1,7 @@
+family,model_type,financial_variable,base_estimate,extra_control_estimate,change_in_estimate,base_N,extra_control_N,change_in_N,extra_controls
+CG,continuous,credit_gap,-0.023576278670903828,-0.012205392584558026,0.011370886086345802,1062,664,-398,"labour_force_participation_5y_backward_avg, productivity_growth_5y_backward"
+CG,interaction_financial_main_effect,credit_gap,-0.024847245806676514,-0.012013640466229419,0.012833605340447096,1062,664,-398,"labour_force_participation_5y_backward_avg, productivity_growth_5y_backward"
+CG,interaction_term,credit_gap,-0.001368795710209062,0.00021788228657429378,0.0015866779967833558,1062,664,-398,"labour_force_participation_5y_backward_avg, productivity_growth_5y_backward"
+DSR,continuous,dsr_deviation_10y,-0.0608244126813388,-0.06943476171932844,-0.008610349037989642,371,349,-22,"labour_force_participation_5y_backward_avg, productivity_growth_5y_backward"
+DSR,interaction_financial_main_effect,dsr_deviation_10y,-0.05900229406963592,-0.06797770531089854,-0.008975411241262624,371,349,-22,"labour_force_participation_5y_backward_avg, productivity_growth_5y_backward"
+DSR,interaction_term,dsr_deviation_10y,-0.005102025967785648,-0.0041810053593203285,0.0009210206084653196,371,349,-22,"labour_force_participation_5y_backward_avg, productivity_growth_5y_backward"

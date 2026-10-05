@@ -1,0 +1,4 @@
+model,term,estimate,clustered_se,t_stat,p_value,ci_lower,ci_upper,N,countries,first_year,last_year,fixed_effects,se_method,outcome,unit
+P5-CG1-1SD,credit_gap_standardized,-0.27110064190387967,0.08410820874823063,-3.223236422920287,0.0012675088967633477,-0.4359497018545884,-0.10625158195317091,1062,27,1970,2020,"country, year",country-clustered,real_gdp_pc_growth_5y_forward,one sample standard deviation
+P5-DSR1-1SD,dsr_deviation_10y_standardized,-0.14820614455498296,0.09766025621717171,-1.5175686640163013,0.129123171469971,-0.3396167294615934,0.04320444035162749,371,22,2004,2020,"country, year",country-clustered,real_gdp_pc_growth_5y_forward,one sample standard deviation
+P5-HP1-1SD,real_house_price_growth_5y_standardized,-0.06950246097538704,0.07983737942301164,-0.8705503797555039,0.3839996998154088,-0.22598084926454906,0.08697592731377499,861,26,1971,2020,"country, year",country-clustered,real_gdp_pc_growth_5y_forward,one sample standard deviation

@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+data/raw/world_bank/*.csv
+data/raw/pwt/*.xlsx
+data/raw/jst/documentation/

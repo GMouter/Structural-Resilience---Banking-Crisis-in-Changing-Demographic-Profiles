@@ -1,0 +1,19 @@
+model,term,estimate,clustered_se,t_stat,p_value,ci_lower,ci_upper,N,countries,first_year,last_year,fixed_effects,se_method,outcome,horizon_years
+P5-CG1y,credit_gap,-0.02536384492974389,0.007293233445528664,-3.4777228946776626,0.0005056924126300714,-0.039658319813823034,-0.011069370045664741,1170,27,1970,2024,"country, year",country-clustered,real_gdp_pc_growth_1y_forward,1
+P5-CG1y,__model__,,,,,,,1170,27,1970,2024,"country, year",country-clustered,real_gdp_pc_growth_1y_forward,1
+P5-DSR1y,dsr_deviation_10y,-0.12213248988284324,0.03363881195396385,-3.6307016445761153,0.0002826517761920628,-0.18806334979532782,-0.05620162997035866,459,22,2004,2024,"country, year",country-clustered,real_gdp_pc_growth_1y_forward,1
+P5-DSR1y,__model__,,,,,,,459,22,2004,2024,"country, year",country-clustered,real_gdp_pc_growth_1y_forward,1
+P5-HP1y,real_house_price_growth_5y,0.002822989338228506,0.003133831639931401,0.9008107845545592,0.3676889325060505,-0.003319207809649135,0.008965186486106147,965,26,1971,2024,"country, year",country-clustered,real_gdp_pc_growth_1y_forward,1
+P5-HP1y,__model__,,,,,,,965,26,1971,2024,"country, year",country-clustered,real_gdp_pc_growth_1y_forward,1
+P5-CG3y,credit_gap,-0.026545514733560174,0.007602970951672057,-3.491466020624772,0.00048037756434201847,-0.04144706397434163,-0.011643965492778723,1116,27,1970,2022,"country, year",country-clustered,real_gdp_pc_growth_3y_forward,3
+P5-CG3y,__model__,,,,,,,1116,27,1970,2022,"country, year",country-clustered,real_gdp_pc_growth_3y_forward,3
+P5-DSR3y,dsr_deviation_10y,-0.09541867720890806,0.03734055716811376,-2.555362973811997,0.010607711741444585,-0.16860482442107,-0.022232529996746145,415,22,2004,2022,"country, year",country-clustered,real_gdp_pc_growth_3y_forward,3
+P5-DSR3y,__model__,,,,,,,415,22,2004,2022,"country, year",country-clustered,real_gdp_pc_growth_3y_forward,3
+P5-HP3y,real_house_price_growth_5y,-0.0016425365931186733,0.0032076483951954675,-0.5120687777310394,0.6086028750724046,-0.007929411922769492,0.004644338736532146,913,26,1971,2022,"country, year",country-clustered,real_gdp_pc_growth_3y_forward,3
+P5-HP3y,__model__,,,,,,,913,26,1971,2022,"country, year",country-clustered,real_gdp_pc_growth_3y_forward,3
+P5-CG5y,credit_gap,-0.023576278670903828,0.0073144738943913944,-3.2232364229205452,0.0012675088967622067,-0.03791238406976939,-0.009240173272038264,1062,27,1970,2020,"country, year",country-clustered,real_gdp_pc_growth_5y_forward,5
+P5-CG5y,__model__,,,,,,,1062,27,1970,2020,"country, year",country-clustered,real_gdp_pc_growth_5y_forward,5
+P5-DSR5y,dsr_deviation_10y,-0.0608244126813388,0.040080171740206755,-1.5175686640165338,0.12912317146991237,-0.1393801057863241,0.01773128042364651,371,22,2004,2020,"country, year",country-clustered,real_gdp_pc_growth_5y_forward,5
+P5-DSR5y,__model__,,,,,,,371,22,2004,2020,"country, year",country-clustered,real_gdp_pc_growth_5y_forward,5
+P5-HP5y,real_house_price_growth_5y,-0.00287221108522165,0.0032993048443961826,-0.8705503797565282,0.38399969981484927,-0.009338729754256696,0.0035943075838133953,861,26,1971,2020,"country, year",country-clustered,real_gdp_pc_growth_5y_forward,5
+P5-HP5y,__model__,,,,,,,861,26,1971,2020,"country, year",country-clustered,real_gdp_pc_growth_5y_forward,5

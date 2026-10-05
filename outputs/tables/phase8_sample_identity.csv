@@ -1,0 +1,7 @@
+strategy,matched_observations,countries,same_sample_as_B3,first_return_year,last_return_year
+B1,518,12,True,1966,2020
+B2,518,12,True,1966,2020
+B3,518,12,True,1966,2020
+B4,518,12,True,1966,2020
+R1,518,12,True,1966,2020
+R2,518,12,True,1966,2020

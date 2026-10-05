@@ -1,0 +1,6 @@
+family,predictors,available_N,available_countries,available_first_year,available_last_year,oos_N,oos_countries
+S1,credit_gap,608,13,1960,2017,377,13
+S2,"credit_gap, dsr_deviation_10y",182,13,2004,2017,78,13
+S3,"credit_gap, dsr_deviation_10y, real_house_price_growth_5y",182,13,2004,2017,78,13
+DSR_only,dsr_deviation_10y,182,13,2004,2017,78,13
+Property_only,real_house_price_growth_5y,578,13,1965,2017,390,13

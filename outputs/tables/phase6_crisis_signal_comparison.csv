@@ -1,0 +1,5 @@
+signal,condition,mean,median,std,N,countries,first_year,last_year
+credit_gap,not_followed_by_crisis_within_3y,0.5334048473967684,0.8778,10.892770898515604,557,13,1960,2017
+credit_gap,followed_by_crisis_within_3y,9.970962745098038,8.1689,14.615343104367557,51,12,1981,2007
+dsr_deviation_10y,not_followed_by_crisis_within_3y,0.6384329237071171,0.5625,2.3600814409878903,155,13,2004,2017
+dsr_deviation_10y,followed_by_crisis_within_3y,0.9845006613756605,0.0857142857142854,2.4198832822936,27,9,2004,2007

@@ -1,0 +1,19 @@
+jst_country,iso3,included,reason
+Australia,AUS,True,ISO3 matches project country universe
+Belgium,BEL,False,JST country is outside the project country universe
+Canada,CAN,True,ISO3 matches project country universe
+Switzerland,CHE,True,ISO3 matches project country universe
+Germany,DEU,True,ISO3 matches project country universe
+Denmark,DNK,True,ISO3 matches project country universe
+Spain,ESP,True,ISO3 matches project country universe
+Finland,FIN,False,JST country is outside the project country universe
+France,FRA,True,ISO3 matches project country universe
+UK,GBR,True,ISO3 matches project country universe
+Ireland,IRL,False,JST country is outside the project country universe
+Italy,ITA,True,ISO3 matches project country universe
+Japan,JPN,True,ISO3 matches project country universe
+Netherlands,NLD,True,ISO3 matches project country universe
+Norway,NOR,True,ISO3 matches project country universe
+Portugal,PRT,False,JST country is outside the project country universe
+Sweden,SWE,True,ISO3 matches project country universe
+USA,USA,True,ISO3 matches project country universe
